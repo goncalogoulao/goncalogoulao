@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Gonçalo 👋
 
-<!--
-**goncalogoulao/goncalogoulao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://gpvc.arturio.dev/Cgoncalogoulao)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning C#, Java
+- 📫 How to reach me: **[Linkedln]**    **[Email]**
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
+
+## 📊 GitHub Stats
+
+![Your github stats](https://github-readme-stats.vercel.app/api?username=goncalogoulao&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalogoulao&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[Linkedln]:https://www.linkedin.com/in/gon%C3%A7alo-goul%C3%A3o-49b509252/
+[Email]:goncalogoulao@tecnico.ulisboa.pt
