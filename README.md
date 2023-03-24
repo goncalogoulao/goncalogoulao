@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning C#, Java
 - 📫 How to reach me: **[Linkedln]**    **[Email]**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm a self-taught artist, my profile pic was actually drawn by me!
 
 ## 📊 GitHub Stats
 
